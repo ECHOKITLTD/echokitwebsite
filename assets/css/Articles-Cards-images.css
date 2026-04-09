@@ -1,0 +1,9 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+a.custom-link, a.custom-link:hover, a.custom-link:focus, a.custom-link:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
